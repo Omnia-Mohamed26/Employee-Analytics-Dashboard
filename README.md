@@ -5,7 +5,9 @@
 
 # 👥 Employee Analytics Dashboard
 
-
+<p align="center">
+  <img src="Employee_Analytics_Dashboard.png" alt="Employee Analytics Dashboard" width="100%">
+</p>
 
 An interactive **Business Intelligence Dashboard** built with **Power BI** using data extracted from a **PostgreSQL** database. The project combines **SQL**, **Power Query**, and **Power BI** visualizations to analyze employee information, salary distribution, job roles, departmental performance, and hiring insights, enabling HR teams and business managers to make informed workforce decisions.
 
